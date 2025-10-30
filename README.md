@@ -91,6 +91,19 @@ git merge <branch-name>
 ## Contributers
 
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/Savy011">
+                    <img src="https://avatars.githubusercontent.com/u/106910589?v=4" width="100;" alt="Savy011"/>
+                    <br />
+                    <sub><b>Savy</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
 
 ---
