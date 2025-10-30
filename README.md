@@ -101,6 +101,13 @@ git merge <branch-name>
                     <sub><b>Savy</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Mananwebdev160408">
+                    <img src="https://avatars.githubusercontent.com/u/214625097?v=4" width="100;" alt="Mananwebdev160408"/>
+                    <br />
+                    <sub><b>Manan Gupta  </b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>
