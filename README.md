@@ -88,6 +88,11 @@ git merge <branch-name>
 - [Interactive Git Tutorial](https://learngitbranching.js.org/)
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
+## Contributers
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
+
 ---
 
 *Remember: Everyone was a beginner once. Don't be afraid to make mistakes—that's what version control is for!* 😊
