@@ -102,13 +102,6 @@ git merge <branch-name>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/RAGHAVS1304">
-                    <img src="https://avatars.githubusercontent.com/u/119474871?v=4" width="100;" alt="RAGHAVS1304"/>
-                    <br />
-                    <sub><b>Raghav</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/Savy011">
                     <img src="https://avatars.githubusercontent.com/u/106910589?v=4" width="100;" alt="Savy011"/>
                     <br />
@@ -116,17 +109,10 @@ git merge <branch-name>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/nikhilkamboj">
-                    <img src="https://avatars.githubusercontent.com/u/18365898?v=4" width="100;" alt="nikhilkamboj"/>
+                <a href="https://github.com/RAGHAVS1304">
+                    <img src="https://avatars.githubusercontent.com/u/119474871?v=4" width="100;" alt="RAGHAVS1304"/>
                     <br />
-                    <sub><b>Nikhil Kamboj</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/chiragdhama008-design">
-                    <img src="https://avatars.githubusercontent.com/u/227970921?v=4" width="100;" alt="chiragdhama008-design"/>
-                    <br />
-                    <sub><b>chiragdhama008-design</b></sub>
+                    <sub><b>Raghav</b></sub>
                 </a>
             </td>
 		</tr>
